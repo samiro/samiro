@@ -1,4 +1,4 @@
-# Hello 👋
+## Hello 👋
 
 My name is Samir, I'm from Colombia and I'm a Software Engineer & Technical Leader.
 
@@ -6,7 +6,7 @@ My name is Samir, I'm from Colombia and I'm a Software Engineer & Technical Lead
 - Former founder with 13+ years of experience turning complex distributed systems into high-impact products.
 - Passionate about system design, AI orchestration, and mentoring engineering squads.
 
-### Skills & Core Focus
+### Skills
 
 - **Architecture & Leadership**: Distributed Systems, High-Transaction Services, System Design, Technical Roadmapping & Engineering Governance.
 - **AI & Emerging Tech**: Generative AI Integration, LLM Orchestration, RAG Architectures, AI-assisted development lifecycles.
